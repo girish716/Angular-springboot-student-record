@@ -1,5 +1,5 @@
 # StudentRecord - Full Stack Project
-Student Records is a web-based service that allows to manage and this project shows you to Frontend and backend.
+Student Records is a web-based service that allows us to manage students basically their personal details and subjects. 
 How to write the code and structed according to best practices standards and also implementing single deployable ##War package CI/CD with [SpringBoot](https://spring.io/) and [Angular](https://angular.io/).
  
 # [Tech Stack](https://github.com/Only1Ryu/StudentRecord/blob/master/img.png)
